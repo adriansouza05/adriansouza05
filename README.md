@@ -1,15 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:8957e5&height=200&section=header&text=Ol%C3%A1%2C%20eu%20sou%20Adrian%20Souza&fontSize=40&fontColor=ffffff&fontAlignY=40&animation=fadeIn" alt="Olá, eu sou Adrian Souza" />
+<img src="assets/banner.jpg" width="100%" alt="Banner" />
+
+# Olá, eu sou Adrian Souza 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=22&pause=2000&color=C2B280&center=true&vCenter=true&width=620&lines=Estudante+de+ADS+pela+Fatec;Suporte+t%C3%A9cnico+e+manuten%C3%A7%C3%A3o+de+computadores;Automa%C3%A7%C3%A3o+de+rotinas+com+Python" alt="Typing SVG" />
+
+<br/>
 
 Estudante de Análise e Desenvolvimento de Sistemas pela **Fatec-RP**.<br/>
 Trabalho com suporte técnico (help desk), manutenção de computadores e automação de rotinas com Python.
 
-<a href="https://github.com/adriansouza05">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F6FEB&center=true&vCenter=true&width=620&lines=Estudante+de+ADS+pela+Fatec;Suporte+t%C3%A9cnico+e+manuten%C3%A7%C3%A3o+de+computadores;Automa%C3%A7%C3%A3o+de+rotinas+com+Python" alt="Typing SVG" />
-</a>
+</div>
 
-### 🛠️ Tecnologias
+---
+
+<div align="center">
+
+## 🛠️ Tecnologias
 
 **Linguagens e banco de dados**
 
@@ -34,16 +42,28 @@ Trabalho com suporte técnico (help desk), manutenção de computadores e automa
 <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/windows11/windows11-original.svg" width="48" height="48" alt="Windows" title="Windows" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/linuxmint/linuxmint-original.svg" width="48" height="48" alt="Linux Mint" title="Linux Mint" />
 
-### 📫 Contato
+</div>
+
+---
+
+<div align="center">
+
+## 📫 Contato
 
 <a href="https://www.linkedin.com/in/adrian-teixeira05/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+  <img src="https://img.shields.io/badge/LinkedIn-2B2B2B?style=for-the-badge&logo=linkedin&logoColor=C2B280" alt="LinkedIn" />
+</a>&nbsp;&nbsp;
 <a href="mailto:SEU-EMAIL">
-  <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+  <img src="https://img.shields.io/badge/E--mail-2B2B2B?style=for-the-badge&logo=gmail&logoColor=C2B280" alt="E-mail" />
 </a>
 
-### 🐍 Snake Eating Contributions
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 Snake Eating Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adriansouza05/adriansouza05/output/github-snake-dark.svg">
