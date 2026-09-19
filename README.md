@@ -6,8 +6,17 @@ Estudante de Análise e Desenvolvimento de Sistemas pela **Fatec-RP**.<br/>
 Trabalho com suporte técnico (help desk), manutenção de computadores e automação de rotinas com Python.
 
 <a href="https://github.com/adriansouza05">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F6FEB&center=true&vCenter=true&width=620&lines=Estudante+de+ADS+pela+Fatec;Suporte+t%C3%A9cnico+e+manuten%C3%A7%C3%A3o+de+computadores;Automa%C3%A7%C3%A3o+de+rotinas+com+Python;Curioso+por+redes+e+diagn%C3%B3stico+de+problemas" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F6FEB&center=true&vCenter=true&width=620&lines=Estudante+de+ADS+pela+Fatec;Suporte+t%C3%A9cnico+e+manuten%C3%A7%C3%A3o+de+computadores;Automa%C3%A7%C3%A3o+de+rotinas+com+Python" alt="Typing SVG" />
 </a>
+
+### 🛠️ Tecnologias
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+<img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 
 ### 📫 Contato
 
