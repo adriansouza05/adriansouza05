@@ -11,12 +11,28 @@ Trabalho com suporte técnico (help desk), manutenção de computadores e automa
 
 ### 🛠️ Tecnologias
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-<img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+**Linguagens e banco de dados**
+
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/python/python-original.svg" width="48" height="48" alt="Python" title="Python" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/c/c-original.svg" width="48" height="48" alt="C" title="C" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle SQL" title="Oracle SQL" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" title="HTML" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" title="CSS" />
+
+**Ferramentas**
+
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/pandas/pandas-original.svg" width="48" height="48" alt="pandas" title="pandas" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/git/git-original.svg" width="48" height="48" alt="Git" title="Git" />&nbsp;&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/github/github-original.svg" width="48" height="48" alt="GitHub" title="GitHub" />
+</picture>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" title="VS Code" />
+
+**Sistemas operacionais**
+
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/windows11/windows11-original.svg" width="48" height="48" alt="Windows" title="Windows" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/linuxmint/linuxmint-original.svg" width="48" height="48" alt="Linux Mint" title="Linux Mint" />
 
 ### 📫 Contato
 
