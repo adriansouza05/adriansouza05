@@ -3,6 +3,7 @@
 <img src="assets/banner.jpg" width="100%" alt="Banner" />
 
 # Olá, eu sou Adrian Souza 👋
+seja bem-vindo!
 
 <img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=22&pause=2000&color=C2B280&center=true&vCenter=true&width=620&lines=Estudante+de+ADS+pela+Fatec;Suporte+t%C3%A9cnico+e+manuten%C3%A7%C3%A3o+de+computadores;Automa%C3%A7%C3%A3o+de+rotinas+com+Python" alt="Typing SVG" />
 
