@@ -1,26 +1,15 @@
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header" alt="Banner" />
+
 # Olá, eu sou Adrian Souza 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Adrian%20Souza&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20ADS%20%7C%20Suporte%20T%C3%A9cnico%20%7C%20Automa%C3%A7%C3%A3o&descAlignY=58&descSize=18" alt="Banner Adrian Souza" />
-Estudante de Análise e Desenvolvimento de Sistemas pela **Fatec-RP**.
+Estudante de Análise e Desenvolvimento de Sistemas pela **Fatec-RP**.<br/>
 Trabalho com suporte técnico (help desk), manutenção de computadores e automação de rotinas com Python.
 
 <a href="https://github.com/adriansouza05">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F6FEB&center=true&vCenter=true&width=620&lines=Estudante+de+ADS+na+Fatec;Suporte+t%C3%A9cnico+e+manuten%C3%A7%C3%A3o+de+computadores;Automa%C3%A7%C3%A3o+de+rotinas+com+Python;Curioso+por+redes+e+diagn%C3%B3stico+de+problemas" alt="Typing SVG" />
 </a>
-
-<br/>
-### 📫 Contato
-
-<a href="https://www.linkedin.com/in/adrian-teixeira05/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:[SEU-EMAIL]">
-<a href="mailto:SEU-EMAIL">
-  <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
-</a>
-
-</div>
 
 ### 📫 Contato
 
@@ -38,3 +27,5 @@ Trabalho com suporte técnico (help desk), manutenção de computadores e automa
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adriansouza05/adriansouza05/output/github-snake.svg">
   <img alt="Snake animation" src="https://raw.githubusercontent.com/adriansouza05/adriansouza05/output/github-snake.svg">
 </picture>
+
+</div>
