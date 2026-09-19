@@ -1,6 +1,6 @@
 # Olá, eu sou Adrian Souza 👋
 
-Estudante de Análise e Desenvolvimento de Sistemas na **Fatec**.
+Estudante de Análise e Desenvolvimento de Sistemas pela **Fatec-RP**.
 Trabalho com suporte técnico (help desk), manutenção de computadores e automação de rotinas com Python.
 
 ### 📫 Contato
